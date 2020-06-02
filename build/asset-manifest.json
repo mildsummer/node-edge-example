@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/node-edge-example/static/css/main.22766995.chunk.css",
-    "main.js": "/node-edge-example/static/js/main.757130d1.chunk.js",
-    "main.js.map": "/node-edge-example/static/js/main.757130d1.chunk.js.map",
-    "runtime-main.js": "/node-edge-example/static/js/runtime-main.3a3dc960.js",
-    "runtime-main.js.map": "/node-edge-example/static/js/runtime-main.3a3dc960.js.map",
-    "static/js/2.e785a15f.chunk.js": "/node-edge-example/static/js/2.e785a15f.chunk.js",
-    "static/js/2.e785a15f.chunk.js.map": "/node-edge-example/static/js/2.e785a15f.chunk.js.map",
-    "index.html": "/node-edge-example/index.html",
-    "precache-manifest.0da815ec33450702eba0a80d3595ada3.js": "/node-edge-example/precache-manifest.0da815ec33450702eba0a80d3595ada3.js",
-    "service-worker.js": "/node-edge-example/service-worker.js",
-    "static/css/main.22766995.chunk.css.map": "/node-edge-example/static/css/main.22766995.chunk.css.map",
-    "static/js/2.e785a15f.chunk.js.LICENSE.txt": "/node-edge-example/static/js/2.e785a15f.chunk.js.LICENSE.txt"
+    "main.css": "/node-edge-example/build/static/css/main.22766995.chunk.css",
+    "main.js": "/node-edge-example/build/static/js/main.8e30c20e.chunk.js",
+    "main.js.map": "/node-edge-example/build/static/js/main.8e30c20e.chunk.js.map",
+    "runtime-main.js": "/node-edge-example/build/static/js/runtime-main.3a1de9eb.js",
+    "runtime-main.js.map": "/node-edge-example/build/static/js/runtime-main.3a1de9eb.js.map",
+    "static/js/2.e785a15f.chunk.js": "/node-edge-example/build/static/js/2.e785a15f.chunk.js",
+    "static/js/2.e785a15f.chunk.js.map": "/node-edge-example/build/static/js/2.e785a15f.chunk.js.map",
+    "index.html": "/node-edge-example/build/index.html",
+    "precache-manifest.bac5bdca15dd2256b76cfa9cf7336792.js": "/node-edge-example/build/precache-manifest.bac5bdca15dd2256b76cfa9cf7336792.js",
+    "service-worker.js": "/node-edge-example/build/service-worker.js",
+    "static/css/main.22766995.chunk.css.map": "/node-edge-example/build/static/css/main.22766995.chunk.css.map",
+    "static/js/2.e785a15f.chunk.js.LICENSE.txt": "/node-edge-example/build/static/js/2.e785a15f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a3dc960.js",
+    "static/js/runtime-main.3a1de9eb.js",
     "static/js/2.e785a15f.chunk.js",
     "static/css/main.22766995.chunk.css",
-    "static/js/main.757130d1.chunk.js"
+    "static/js/main.8e30c20e.chunk.js"
   ]
 }
