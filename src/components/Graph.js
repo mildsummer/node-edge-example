@@ -5,8 +5,8 @@ import Edge from "./Edge";
 
 function Graph() {
   const [nodes, setNodes] = useState([
-    [50, 50, 1],
-    [350, 50, 3],
+    [150, 150, 1],
+    [450, 250, 3],
   ]);
   const edges = [[0, 1]];
   const handleChange = (index, position) => {

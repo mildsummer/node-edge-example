@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e228ae722db889618f8798e2e0a60dc2",
+    "revision": "930fb6621c84ed1d8f5b391bc895bdff",
     "url": "/node-edge-example/build/index.html"
   },
   {
-    "revision": "32590a697f65ccd987c1",
-    "url": "/node-edge-example/build/static/css/main.22766995.chunk.css"
+    "revision": "bc347a0a00633158ae8a",
+    "url": "/node-edge-example/build/static/css/main.0e5cbf38.chunk.css"
   },
   {
     "revision": "698a5952a46452276f48",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-edge-example/build/static/js/2.e785a15f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32590a697f65ccd987c1",
-    "url": "/node-edge-example/build/static/js/main.8e30c20e.chunk.js"
+    "revision": "bc347a0a00633158ae8a",
+    "url": "/node-edge-example/build/static/js/main.d8d437cc.chunk.js"
   },
   {
     "revision": "9976dc6f67d35ed623c6",

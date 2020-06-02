@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/node-edge-example/build/static/css/main.22766995.chunk.css",
-    "main.js": "/node-edge-example/build/static/js/main.8e30c20e.chunk.js",
-    "main.js.map": "/node-edge-example/build/static/js/main.8e30c20e.chunk.js.map",
+    "main.css": "/node-edge-example/build/static/css/main.0e5cbf38.chunk.css",
+    "main.js": "/node-edge-example/build/static/js/main.d8d437cc.chunk.js",
+    "main.js.map": "/node-edge-example/build/static/js/main.d8d437cc.chunk.js.map",
     "runtime-main.js": "/node-edge-example/build/static/js/runtime-main.3a1de9eb.js",
     "runtime-main.js.map": "/node-edge-example/build/static/js/runtime-main.3a1de9eb.js.map",
     "static/js/2.e785a15f.chunk.js": "/node-edge-example/build/static/js/2.e785a15f.chunk.js",
     "static/js/2.e785a15f.chunk.js.map": "/node-edge-example/build/static/js/2.e785a15f.chunk.js.map",
     "index.html": "/node-edge-example/build/index.html",
-    "precache-manifest.bac5bdca15dd2256b76cfa9cf7336792.js": "/node-edge-example/build/precache-manifest.bac5bdca15dd2256b76cfa9cf7336792.js",
+    "precache-manifest.a9325415517c4ccf3d7526e947f54cdb.js": "/node-edge-example/build/precache-manifest.a9325415517c4ccf3d7526e947f54cdb.js",
     "service-worker.js": "/node-edge-example/build/service-worker.js",
-    "static/css/main.22766995.chunk.css.map": "/node-edge-example/build/static/css/main.22766995.chunk.css.map",
+    "static/css/main.0e5cbf38.chunk.css.map": "/node-edge-example/build/static/css/main.0e5cbf38.chunk.css.map",
     "static/js/2.e785a15f.chunk.js.LICENSE.txt": "/node-edge-example/build/static/js/2.e785a15f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a1de9eb.js",
     "static/js/2.e785a15f.chunk.js",
-    "static/css/main.22766995.chunk.css",
-    "static/js/main.8e30c20e.chunk.js"
+    "static/css/main.0e5cbf38.chunk.css",
+    "static/js/main.d8d437cc.chunk.js"
   ]
 }
