@@ -7,6 +7,7 @@ function Graph() {
   const [nodes, setNodes] = useState([
     [150, 150, 1],
     [450, 250, 3],
+    [300, 200],
   ]);
   const edges = [[0, 1]];
   const handleChange = (index, position) => {
@@ -29,6 +30,7 @@ function Graph() {
           key={`${index1}-${index2}`}
           node1={nodes[index1]}
           node2={nodes[index2]}
+          globalNodes={nodes}
         />
       ))}
     </div>

@@ -7,7 +7,7 @@ const { abs, min, max } = Math;
 const PADDING = 100;
 const NODE_SIZE = 100;
 
-function Edge({ node1, node2 }) {
+function Edge({ node1, node2, globalNodes }) {
   const edgePosition = (node, positionIndex = null) => {
     const pIndex = typeof positionIndex === "number" ? positionIndex : node[2];
     if (pIndex === 0) {
@@ -62,10 +62,13 @@ function Edge({ node1, node2 }) {
         height={height + PADDING * 2}
       >
         <Path
-          position1={[position1[0] - leftTop[0] + PADDING, position1[1] - leftTop[1] + PADDING]}
-          position2={[position2[0] - leftTop[0] + PADDING, position2[1] - leftTop[1] + PADDING]}
+          position1={position1}
+          position2={position2}
           handleLength={width * 0.5}
+          offset={[-leftTop[0] + PADDING, -leftTop[1] + PADDING]}
           linear={linear}
+          globalNodes={globalNodes.filter(node => (node !== node1 && node !== node2))}
+          globalNodeRadius={NODE_SIZE / 2}
         />
       </svg>
     </div>
